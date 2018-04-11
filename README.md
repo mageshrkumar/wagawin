@@ -45,8 +45,6 @@ GET http://localhost:8080/api/child/color?id={value}
 
 ```
 
-```
-
 * Get ParentChildSummary
 
 ```
