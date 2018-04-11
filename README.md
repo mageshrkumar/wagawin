@@ -1,4 +1,4 @@
-# J1 - Smava recruitment tasks for Java back-end developer
+# Coding Challenge - Wagawin
 
 Coding Task:
 
