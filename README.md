@@ -1,4 +1,4 @@
-# Coding Challenge - Wagawin
+# Coding Challenge
 
 Coding Task:
 
